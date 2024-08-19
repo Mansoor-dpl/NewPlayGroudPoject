@@ -1,4 +1,3 @@
-# NewPlayGroudPoject
-# NewPlayGroudPoject Dead Line COde
+# Task 3 Playground
 
-this is code of line to send the dev
+This code is for line 3
